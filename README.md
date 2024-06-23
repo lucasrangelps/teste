@@ -6,3 +6,4 @@
 
 
 <video controls src="VideoDaApresentacaoEscolaSegura.mp4" title="Title"></video>
+<video controls src="VideoDaApresentacaoEscolaSegura.mp4" title="Title"></video>
